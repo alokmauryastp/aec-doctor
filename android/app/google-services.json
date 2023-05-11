@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "811737325630",
+    "project_id": "aec-medical-doctor",
+    "storage_bucket": "aec-medical-doctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811737325630:android:6855487c97458b4ff4b16f",
+        "android_client_info": {
+          "package_name": "com.aaragroups.doctorsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811737325630-rjpoo6qei0h5gdc4u0tlh4up32jfn2sv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aaragroups.doctorsapp",
+            "certificate_hash": "7e972a71d035731737549201ca8e3a6e3ab1639c"
+          }
+        },
+        {
+          "client_id": "811737325630-o0krflrb0mtelhs850bmo3sc6ka8d2rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU2E8QL6dGM09Jfj_3_Ucawv_c4fwwNGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811737325630-o0krflrb0mtelhs850bmo3sc6ka8d2rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
